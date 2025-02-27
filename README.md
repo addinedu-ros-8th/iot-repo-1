@@ -121,7 +121,7 @@
 | **프로그래밍 언어** | Python, C++ |
 | **프레임워크 & 라이브러리** | OpenCV, PyQt5, DeepFace (FaceNet512), MySQL Connector |
 | **데이터베이스** | MySQL |
-| **통신 프로토콜** | TCP, Serial (UART) |
+| **통신 프로토콜** | TCP, Serial |
 | **버전 관리** | Git |
 | **협업 도구** | Jira, Confluence |
 
